@@ -25,7 +25,7 @@ In order to use the bot, you will need to create a `config.json` file. You can u
 {
   "prefix": "$", 
   "token": "YOUR_BOT_TOKEN_HERE",
-  "ownerId": "YOUR_DISCORD_USER_ID_HERE"
+  "Id": "YOUR_DISCORD_USER_ID_HERE"
 }
 ```
 
