@@ -1,5 +1,8 @@
-# Discord Mass DM Bot 
-
+<h1 align="center">
+  <br>
+  Discord Mass DM Bot 
+  <br>
+</h1>
 This is a simple Discord bot created with JavaScript using the Discord.js library that allows users to send a message to multiple users through direct messages.
 
 ## Installation
