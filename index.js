@@ -1,8 +1,3 @@
-// DISCORD MASS DM BOT ULTRA FAST V1
-// THIS IS THE FASTEST MASS DM BOT OUT THERE
-//  PLEASE SUBSCRIVBE AND LIKE THE VIDEO.
-
-
 const Discord = require('discord.js');
 const { Id, token, prefix } = require('./config.json');
 const Bot = new Discord.Client();({ws: { intents: new Discord.Intents(Discord.Intents.ALL) } });
